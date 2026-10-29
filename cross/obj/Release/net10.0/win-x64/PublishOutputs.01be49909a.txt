@@ -1,0 +1,5 @@
+C:\Users\vlsta\Desktop\capri-desktop-main\capri-desktop-main\build\Capri.pdb
+C:\Users\vlsta\Desktop\capri-desktop-main\capri-desktop-main\build\av_libglesv2.dll
+C:\Users\vlsta\Desktop\capri-desktop-main\capri-desktop-main\build\libHarfBuzzSharp.dll
+C:\Users\vlsta\Desktop\capri-desktop-main\capri-desktop-main\build\libSkiaSharp.dll
+C:\Users\vlsta\Desktop\capri-desktop-main\capri-desktop-main\build\Capri.exe

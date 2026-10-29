@@ -1,0 +1,2 @@
+C:\Users\vlsta\Desktop\capri-desktop-main\capri-desktop-main\app\obj\Release\net10.0-windows\Capri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlsta\Desktop\capri-desktop-main\capri-desktop-main\app\obj\Release\net10.0-windows\Capri.csproj.CoreCompileInputs.cache
